@@ -140,6 +140,7 @@ body{
 }
 .blog-post-content.ara {
   font-family: 'Scheherazade New', serif;
+  text-align: right;
 }
 
 .post-tag{background: var(--bg-color); color:var(--primary-font-color); padding: 5px 10px;}
